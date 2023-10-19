@@ -1,6 +1,6 @@
-
 ---
-layout: project
+published: false
+layout: layouts/project_layout.html
 title: Project Name
 description: Short description of the project.
 demo_link: # Link to live demo or video demonstration
