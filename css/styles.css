@@ -22,6 +22,12 @@ ul {
     list-style-type: none;
 }
 
+/* Markers are off, so nesting has to be conveyed by indentation alone */
+li > ul {
+    padding-left: 24px;
+    margin-top: 10px;
+}
+
 li {
     margin-bottom: 10px;
     font-size: 18px;
@@ -37,7 +43,11 @@ li a:hover {
     color: #0056b3;
 }
 
-li.completed {
+li.task-list-item .task-list-item-checkbox {
+    margin-right: 8px;
+}
+
+li.task-list-item:has(.task-list-item-checkbox:checked) {
     text-decoration: line-through;
 }
 
