@@ -19,8 +19,11 @@ title: blakejwc
 
 # Publications
 
-- [NIST ARIA paper with Humane Intelligence (WIRED coverage)](https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/)
+- [NIST ARIA paper with Humane Intelligence](https://www.documentcloud.org/documents/26044340-camlis-report/)
+    - [WIRED coverage (archived)](https://archive.ph/QQHyK)
 - [FAccTRec paper — Cascade! Human-in-the-loop shortcomings in recommender systems](https://arxiv.org/abs/2509.20099)
+- [Ask What Your Country Can Do For You: Towards a Public Red Teaming Model](https://arxiv.org/abs/2510.20061)
+- [CAMLIS Red and PAIRS Poster — Adversarial Testing as Participatory Design: Public AI Red Teaming can Shrink the Responsibility Gap](https://www.pairs.site/Adversarial-Testing-as-Participatory-Design-Public-AI-Red-Teaming-can-Shrink-the-Responsibility-Gap-306260e24e1a8185a2def079e6fa277f)
 
 # Previous Projects
 
